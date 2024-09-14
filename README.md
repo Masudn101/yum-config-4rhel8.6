@@ -18,4 +18,3 @@ sh yum-script-with-ip.sh
 ```
 
 
-Enjoy!!!
